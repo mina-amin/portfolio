@@ -1,11 +1,10 @@
 # 💼 Mina Amin — DevOps Engineer
 
-## About Me
-🚀 I’m a Sales Operations Senior Specialist transitioning into DevOps and System Engineering.
-Passionate about Linux administration, automation, and system monitoring.
-I specialize in deploying and managing web systems, CI/CD pipelines, reverse proxy setups, SSL certificates, and server hardening — with a focus on security, stability, and performance. 
+## 👨‍💻 About Me
+🚀 I’m a **DevOps and System Engineering**.  
+Passionate about **Linux administration**, **automation**, and **system monitoring**.  
+I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **reverse proxy setups**, **SSL certificates**, and **server hardening** — with a strong focus on **security, stability, and performance**.
 
-Passionate about automating deployments, optimizing infrastructure, and ensuring high availability and security across environments.  
 📧 **Email:** [mina.george.amin@gmail.com](mailto:mina.george.amin@gmail.com)
 
 ---
@@ -13,14 +12,16 @@ Passionate about automating deployments, optimizing infrastructure, and ensuring
 ## 🧠 Tech Stack Overview
 
 **Operating Systems:** Ubuntu Server, Debian  
-**Web Servers:** Nginx, Apache
+**Web Servers:** Nginx, Apache  
 **Databases:** MariaDB, PostgreSQL  
 **CI/CD Tools:** GitHub Actions  
 **Monitoring:** Netdata, Prometheus, Grafana  
 **Security:** UFW Firewall, SSL/TLS Certificates, System Hardening  
 **Backup:** Automated daily database backups with retention policies  
 **Languages & Frameworks:** Bash, HTML, CSS  
-**Version Control:** Git, GitHub  
+**Version Control:** Git, GitHub   
+**Analytical Tools:** Apache Superset  
+**Automation Tools:** n8n 
 
 ---
 
@@ -79,7 +80,7 @@ Passionate about automating deployments, optimizing infrastructure, and ensuring
 ### 6. Refugee Support & Charity Management System
 > A web-based platform for managing refugee support programs, donations, and volunteer coordination.
 
-- **Tech:** PHP (Laravel), MariaDB, Apache, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Tech:** PHP (Laravel), MariaDB, Apache, GitHub Actions CI/CD, Netdata, UFW Firewall, n8n, Apache Superset
 - **Monitoring:** Netdata dashboards for performance visibility  
 - **Backup:** Daily backups for secure data retention  
 - **Role:** CI/CD pipeline setup, system deployment, firewall configuration, and monitoring.
@@ -98,10 +99,12 @@ Passionate about automating deployments, optimizing infrastructure, and ensuring
 
 ## ⚙️ Infrastructure Practices
 
-- Deployed each project on **separate dedicated servers** for isolation and performance.  
-- Configured **Nginx reverse proxy** with SSL and firewall rules for secure traffic flow.  
-- Implemented **automated CI/CD pipelines** with GitHub Actions for continuous deployment.  
-- Established **daily backup routines** and **centralized monitoring** across all environments.  
+- Each project runs on a **dedicated server** for isolation and performance.  
+- Configured **Nginx reverse proxy** with SSL/TLS certificates for secure web access.  
+- Applied **UFW firewall rules** to protect services and restrict access.  
+- Automated **CI/CD pipelines** using GitHub Actions for smooth deployments.  
+- Implemented **daily backup routines** for all databases and key configurations.  
+- Set up **centralized monitoring** using Netdata, Prometheus, and Grafana dashboards.
 
 ---
 
