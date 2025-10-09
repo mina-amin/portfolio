@@ -1,0 +1,108 @@
+# 💼 Mina Amin — DevOps Engineer
+
+## About Me
+🚀 I’m a Sales Operations Senior Specialist transitioning into DevOps and System Engineering.
+Passionate about Linux administration, automation, and system monitoring.
+I specialize in deploying and managing web systems, CI/CD pipelines, reverse proxy setups, SSL certificates, and server hardening — with a focus on security, stability, and performance. 
+
+Passionate about automating deployments, optimizing infrastructure, and ensuring high availability and security across environments.  
+📧 **Email:** [mina.george.amin@gmail.com](mailto:mina.george.amin@gmail.com)
+
+---
+
+## 🧠 Tech Stack Overview
+
+**Operating Systems:** Ubuntu Server, Debian  
+**Web Servers:** Nginx, Apache
+**Databases:** MariaDB, PostgreSQL  
+**CI/CD Tools:** GitHub Actions  
+**Monitoring:** Netdata, Prometheus, Grafana  
+**Security:** UFW Firewall, SSL/TLS Certificates, System Hardening  
+**Backup:** Automated daily database backups with retention policies  
+**Languages & Frameworks:** Bash, HTML, CSS  
+**Version Control:** Git, GitHub  
+
+---
+
+## 🏗️ Projects
+
+### 1. Church Management System
+> A complete system for managing church activities, including Mass reservations, member registration, and event tracking.
+
+- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Prometheus + Grafana, UFW Firewall  
+- **Monitoring:** Prometheus and Grafana dashboards for performance and service uptime  
+- **Backup:** Daily database backups stored securely  
+- **Role:** Configured production environment, implemented CI/CD pipelines, SSL setup, and system hardening.
+
+---
+
+### 2. Hostel Management System
+> A platform for small hotels to manage room bookings, check-ins, and check-outs.
+
+- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Monitoring:** Real-time Netdata monitoring for resource usage and server health  
+- **Backup:** Automated daily MariaDB backups  
+- **Role:** Deployment, reverse proxy configuration, and monitoring setup.
+
+---
+
+### 3. Internet Radio Server
+> Self-hosted online radio infrastructure using Shoutcast for streaming and automated server management.
+
+- **Tech:** Shoutcast Server, Nginx Reverse Proxy, SSL, Netdata, Discord Webhook Logging, UFW Firewall  
+- **Monitoring:** Netdata + Discord real-time alerts  
+- **Backup:** Scheduled configuration and log backups  
+- **Role:** Setup, SSL integration, reverse proxy, firewall configuration, and performance tuning.
+
+---
+
+### 4. Educational Mobile App (Coptic Hymns)
+> Mobile backend for teaching Coptic hymns, church rites, and spiritual lessons.
+
+- **Tech:** NestJS (TypeScript), PostgreSQL, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Monitoring:** Netdata for API performance and uptime tracking  
+- **Backup:** Daily PostgreSQL backups  
+- **Role:** API deployment, reverse proxy configuration, and secure server setup.
+
+---
+
+### 5. Travel Agency Management System
+> System to manage clients, bookings, and invoicing for travel agencies.
+
+- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Monitoring:** Netdata for server health metrics  
+- **Backup:** Daily MariaDB backup automation  
+- **Role:** Full deployment, CI/CD automation, firewall setup, and monitoring.
+
+---
+
+### 6. Refugee Support & Charity Management System
+> A web-based platform for managing refugee support programs, donations, and volunteer coordination.
+
+- **Tech:** PHP (Laravel), MariaDB, Apache, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Monitoring:** Netdata dashboards for performance visibility  
+- **Backup:** Daily backups for secure data retention  
+- **Role:** CI/CD pipeline setup, system deployment, firewall configuration, and monitoring.
+
+---
+
+### 7. Healthcare Support System
+> A system linking medical cases with hospitals and sponsors — similar to a basic health insurance workflow.
+
+- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Monitoring:** Netdata for uptime and load tracking  
+- **Backup:** Daily MariaDB backups with scheduled retention  
+- **Role:** Deployment, monitoring configuration, and secure infrastructure setup.
+
+---
+
+## ⚙️ Infrastructure Practices
+
+- Deployed each project on **separate dedicated servers** for isolation and performance.  
+- Configured **Nginx reverse proxy** with SSL and firewall rules for secure traffic flow.  
+- Implemented **automated CI/CD pipelines** with GitHub Actions for continuous deployment.  
+- Established **daily backup routines** and **centralized monitoring** across all environments.  
+
+---
+
+⭐ *Always improving infrastructure reliability, scalability, and security.*
