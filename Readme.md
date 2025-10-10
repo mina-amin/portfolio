@@ -71,10 +71,7 @@ A system designed for an elevator company to allow customers to visualize and cu
 - **Backup:** Daily database backups stored securely  
 - **Role:** Configured production environment, implemented CI/CD pipelines, SSL setup, and system hardening.
 - **Infrastructure:** Ubuntu Server
-
-
-**Features:**
-
+  
 **Features:**
 - Web dashboard for managing materials and configurations  
 - Mobile app integration for real-time customization previews  
