@@ -11,7 +11,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 
 ## 🧠 Tech Stack Overview
 
-**Operating Systems:** Ubuntu, Redhat, Centos. 
+**Operating Systems:** Ubuntu Server, Debian  
 **Web Servers:** Nginx, Apache  
 **Databases:** MariaDB, PostgreSQL  
 **CI/CD Tools:** GitHub Actions  
@@ -30,7 +30,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 ### 1. Church Management System
 > A complete system for managing church activities, including Mass reservations, member registration, and event tracking.
 
-- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Prometheus + Grafana, UFW Firewall  
+- **Tech:** Setup and dependencies installation for PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Prometheus + Grafana, UFW Firewall  
 - **Monitoring:** Prometheus and Grafana dashboards for performance and service uptime  
 - **Backup:** Daily database backups stored securely  
 - **Role:** Configured production environment, implemented CI/CD pipelines, SSL setup, and system hardening.
@@ -48,7 +48,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 ### 2. Hostel Management System
 > A platform for small hotels to manage room bookings, check-ins, and check-outs.
 
-- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Tech:** Setup and dependencies installation for PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
 - **Monitoring:** Real-time Netdata monitoring for resource usage and server health  
 - **Backup:** Automated daily MariaDB backups  
 - **Role:** Deployment, reverse proxy configuration, and monitoring setup.
@@ -67,7 +67,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 
 A system designed for an elevator company to allow customers to visualize and customize elevator cabins by selecting colors, materials, and finishes. The backend powers both a mobile app for users and a web dashboard for administrators to manage available materials and options.
 
-- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Prometheus + Grafana, UFW Firewall
+- **Tech:** Setup and dependencies installation PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Prometheus + Grafana, UFW Firewall
 - **Backup:** Daily database backups stored securely  
 - **Role:** Configured production environment, implemented CI/CD pipelines, SSL setup, and system hardening.
 - **Infrastructure:** Ubuntu Server
@@ -85,7 +85,7 @@ A system designed for an elevator company to allow customers to visualize and cu
 ### 4. Internet Radio Server
 > Self-hosted online radio infrastructure using Shoutcast for streaming and automated server management.
 
-- **Tech:** Shoutcast Server, Nginx Reverse Proxy, SSL, Netdata, Discord Webhook Logging, UFW Firewall  
+- **Tech:** Setup Shoutcast Server, Nginx Reverse Proxy, SSL, Netdata, Discord Webhook Logging, UFW Firewall, Bash Scripting    
 - **Monitoring:** Netdata + Discord real-time alerts  
 - **Backup:** Scheduled configuration and log backups  
 - **Role:** Setup, SSL integration, reverse proxy, firewall configuration, and performance tuning.
@@ -103,8 +103,9 @@ A system designed for an elevator company to allow customers to visualize and cu
 ### 5. Educational Mobile App (Coptic Hymns)
 > Mobile backend for teaching Coptic hymns, church rites, and spiritual lessons.
 
-- **Tech:** NestJS (TypeScript), PostgreSQL, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Tech:** Setup and dependencies installation for NestJS (TypeScript), PostgreSQL, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
 - **Monitoring:** Netdata for API performance and uptime tracking  
+- **Storage:** Managed server storage and volume allocation  
 - **Backup:** Daily PostgreSQL backups  
 - **Role:** API deployment, reverse proxy configuration, and secure server setup.
 - **Infrastructure:** Ubuntu Server
@@ -121,7 +122,7 @@ A system designed for an elevator company to allow customers to visualize and cu
 ### 6. Travel Agency Management System
 > System to manage clients, bookings, and invoicing for travel agencies.
 
-- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Tech:** Setup and dependencies installation For PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
 - **Monitoring:** Netdata for server health metrics  
 - **Backup:** Daily MariaDB backup automation  
 - **Role:** Full deployment, CI/CD automation, firewall setup, and monitoring.
@@ -139,10 +140,10 @@ A system designed for an elevator company to allow customers to visualize and cu
 ### 7. Refugee Support & Charity Management System
 > A web-based platform for managing refugee support programs and volunteer coordination.
 
-- **Tech:** PHP (Laravel), MariaDB, Apache, GitHub Actions CI/CD, Netdata, UFW Firewall, n8n, Apache Superset
+- **Tech:** Setup and dependencies installation for PHP (Laravel), MariaDB, Apache, GitHub Actions CI/CD, Netdata, UFW Firewall, n8n, Apache Superset
 - **Monitoring:** Netdata dashboards for performance visibility  
 - **Backup:** Daily backups for secure data retention  
-- **Data Alaysis Tools** Implementing Apache Superset and linking with DataBases
+- **Data Alaysis Tools** Deploying Apache Superset and linking with DataBases
 - **Role:** CI/CD pipeline setup, system deployment, firewall configuration, and monitoring
 - **Infrastructure:** Ubuntu Server
 
@@ -158,7 +159,7 @@ A system designed for an elevator company to allow customers to visualize and cu
 ### 8. Healthcare Support System
 > A system linking medical cases with hospitals and sponsors — similar to a basic health insurance workflow.
 
-- **Tech:** PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
+- **Tech:** Setup and dependencies installation for PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Netdata, UFW Firewall  
 - **Monitoring:** Netdata for uptime and load tracking  
 - **Backup:** Daily MariaDB backups with scheduled retention  
 - **Role:** Deployment, monitoring configuration, and secure infrastructure setup.
