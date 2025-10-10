@@ -11,7 +11,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 
 ## 🧠 Tech Stack Overview
 
-**Operating Systems:** Ubuntu Server, Debian  
+**Operating Systems:** Ubuntu, Redhat, Centos
 **Web Servers:** Nginx, Apache  
 **Databases:** MariaDB, PostgreSQL  
 **CI/CD Tools:** GitHub Actions  
