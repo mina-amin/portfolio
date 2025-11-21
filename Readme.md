@@ -16,6 +16,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 **Databases:** MariaDB, PostgreSQL  
 **CI/CD Tools:** GitHub Actions  
 **Monitoring:** Netdata, Prometheus, Grafana  
+**Configration Tools:** Ansible  
 **Security:** UFW Firewall, SSL/TLS Certificates, System Hardening  
 **Backup:** Automated daily database backups with retention policies  
 **Languages & Frameworks:** Bash, HTML, CSS  
