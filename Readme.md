@@ -32,7 +32,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 
 ## 🏗️ Projects
 
-### 1. Church Management System
+### . Church Management System
 > A complete system for managing church activities, including Mass reservations, member registration, and event tracking.
 
 - **Tech:** Setup and dependencies installation for PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Prometheus + Grafana, UFW Firewall  
@@ -178,6 +178,25 @@ A system designed for an elevator company to allow customers to visualize and cu
 - Firewall and SSL-secured infrastructure
 
 ---
+
+### 9. Live Streaming Platform
+> A self-hosted streaming platform to broadcast church services to YouTube with auto-detection of streams, admin dashboard, and secure HTTPS access.
+
+- **Tech:** Datarhei Restreamer (Docker), Nginx Reverse Proxy, Certbot (Let's Encrypt), Docker Compose, Firewall Configuration (UFW)  
+- **Monitoring:** Real-time admin dashboard for stream status, bitrate, connected viewers, and logs  
+- **Backup:** Persistent Docker volumes for configuration and stream data  
+- **Role:** Installed and configured Restreamer server, setup HTTPS with Nginx, configured firewall rules, connected OBS as streaming source, and setup YouTube output.  
+- **Infrastructure:** Ubuntu Server 22.04
+
+**Features:**
+- Auto-detection of incoming RTMP streams from OBS  
+- Restream to multiple platforms (YouTube, Facebook, Twitch) from a single source  
+- Web-based admin panel for stream management and monitoring  
+- Secure access via HTTPS with automatic SSL certificate renewal  
+- Persistent configuration and data volumes for reliability  
+- Firewall rules to protect services and restrict direct access to internal ports  
+
+--- 
 
 ## ⚙️ Infrastructure Practices
 
