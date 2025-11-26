@@ -32,7 +32,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 
 ## 🏗️ Projects
 
-### . Church Management System
+### 1. Church Management System
 > A complete system for managing church activities, including Mass reservations, member registration, and event tracking.
 
 - **Tech:** Setup and dependencies installation for PHP (Laravel), MariaDB, Nginx, GitHub Actions CI/CD, Prometheus + Grafana, UFW Firewall  
