@@ -26,7 +26,7 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 
 ---
 
-## 🏆 Publishments
+## 🏆 Contributions
 
 - **Ansible Galaxy Roles**: Published **[mina-amin.laravel_nginx_mariadb](https://galaxy.ansible.com/ui/standalone/roles/mina-amin/laravel_nginx_mariadb/)**
 
