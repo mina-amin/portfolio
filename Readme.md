@@ -20,7 +20,8 @@ I specialize in **deploying and managing web systems**, **CI/CD pipelines**, **r
 **Security:** UFW Firewall, SSL/TLS Certificates, System Hardening  
 **Backup:** Automated daily database backups with retention policies  
 **Languages & Frameworks:** Bash, HTML, CSS  
-**Version Control:** Git, GitHub   
+**Version Control:** Git, GitHub 
+**Containerization:** Docker, Kubernetes  
 **Analytical Tools:** Apache Superset  
 **Automation Tools:** n8n 
 
