@@ -1,0 +1,7 @@
+FROM nginx:alpine
+
+RUN apk add --no-cache wget unzip \
+ && wget -O /tmp/forty.zip https://html5up.net/forty/download \
+ && unzip /tmp/forty.zip -d /tmp/forty \
+ && cp -r /tmp/forty/* /usr/share/nginx/html/ \
+ && rm -rf /tmp/*
